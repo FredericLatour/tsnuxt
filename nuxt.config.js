@@ -28,6 +28,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    '~/plugins/vue-composition'
   ],
   /*
   ** Nuxt.js dev-modules

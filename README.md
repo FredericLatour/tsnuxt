@@ -2,6 +2,9 @@
 
 > Testing Typescript integration
 
+Very basic example of using the Vue Composition api in a Nuxt page.
+You need to add @vue/composition-api through a plugin for this to work.
+
 ## Build Setup
 
 ``` bash
