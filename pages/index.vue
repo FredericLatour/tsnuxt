@@ -9,20 +9,19 @@
         Testing Typescript integration
       </h2>
       <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
+        <nuxt-link
+          to="/tsoption"
           class="button--green"
         >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
+          TS Options Api
+        </nuxt-link>
+
+        <nuxt-link
+          to="/tscomposition"
+          class="button--green"
         >
-          GitHub
-        </a>
+          TS Composition Api
+        </nuxt-link>
       </div>
     </div>
   </div>
